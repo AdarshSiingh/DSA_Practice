@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0099-recover-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0547-number-of-provinces) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0802-find-eventual-safe-states) |
@@ -171,5 +174,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
