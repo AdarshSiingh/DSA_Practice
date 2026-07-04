@@ -1,59 +1,50 @@
-class DS
-{
-    int p[] , s[];
-    DS(int n)
-    {
-        p = new int[n] ; s = new int[n];
-
-        for(int i = 0;i<n;i++)
-        {
-            p[i] = i;  s[i] = 1;
-        }
-    }
-
-    int par(int n)
-    {
-        if(p[n]==n)
-        return n;
-
-        return p[n] = par(p[n]); 
-    }
-    void size(int u , int v)
-    {
-        int x = par(u) , y = par(v);
-
-        if(x==y) return;
-
-        if(s[x]<s[y])
-        {
-            p[x] = y;
-            s[y] += s[x];
-        }
-        else
-        {
-            p[y] = x;
-            s[x] += s[y];
-        }
-    }
-}
 class Solution {
+
+    class DSU {
+        int[] parent, size;
+
+        DSU(int n) {
+            parent = new int[n];
+            size = new int[n];
+            for (int i = 0; i < n; i++) {
+                parent[i] = i;
+                size[i] = 1;
+            }
+        }
+
+        int find(int x) {
+            if (parent[x] == x) return x;
+            return parent[x] = find(parent[x]);
+        }
+
+        void union(int u, int v) {
+            int pu = find(u), pv = find(v);
+            if (pu == pv) return;
+
+            if (size[pu] < size[pv]) {
+                parent[pu] = pv;
+                size[pv] += size[pu];
+            } else {
+                parent[pv] = pu;
+                size[pu] += size[pv];
+            }
+        }
+    }
+
     public int makeConnected(int n, int[][] connections) {
 
-        DS d = new DS(n); int fre = 0 , c = 0;
+        if (connections.length < n - 1) return -1;
 
-        for(int i[] : connections)
-        {
-            if(d.par(i[0])==d.par(i[1]))
-            fre++;
-            else
-            d.size(i[0],i[1]);
-        }
+        DSU dsu = new DSU(n);
 
-        for(int i = 0;i<n;i++)
-        if(d.par(i) == i)
-        c++;
+        for (int[] e : connections)
+            dsu.union(e[0], e[1]);
 
-        return (fre >= c-1) ? c-1 : -1 ;
-        
+        int components = 0;
+        for (int i = 0; i < n; i++)
+            if (dsu.find(i) == i)
+                components++;
+
+        return components - 1;
     }
 }
