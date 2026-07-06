@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -221,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
