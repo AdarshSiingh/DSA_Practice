@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
