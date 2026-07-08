@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0994-rotting-oranges) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
