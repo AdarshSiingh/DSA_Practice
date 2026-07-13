@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
