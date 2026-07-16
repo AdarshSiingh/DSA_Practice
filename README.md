@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0070-climbing-stairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -306,4 +310,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0044-wildcard-matching) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
