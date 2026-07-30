@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1631-path-with-minimum-effort) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Union-Find
 |  |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
