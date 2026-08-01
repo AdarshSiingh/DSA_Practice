@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0127-word-ladder) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0115-distinct-subsequences) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
