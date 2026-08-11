@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0127-word-ladder) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0044-wildcard-matching](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
