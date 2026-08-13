@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
