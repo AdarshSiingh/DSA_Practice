@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -212,12 +214,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1048-longest-string-chain) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0063-unique-paths-ii) |
