@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0583-delete-operation-for-two-strings) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0735-asteroid-collision) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
