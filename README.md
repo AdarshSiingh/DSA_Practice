@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
