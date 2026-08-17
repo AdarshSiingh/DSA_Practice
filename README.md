@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0518-coin-change-ii) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0860-lemonade-change) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
