@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0901-online-stock-span) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
