@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/AdarshSiingh/DSA_Practice/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2390-removing-stars-from-a-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AdarshSiingh/DSA_Practice/tree/master/0735-asteroid-collision) |
+| [2390-removing-stars-from-a-string](https://github.com/AdarshSiingh/DSA_Practice/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AdarshSiingh/DSA_Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
